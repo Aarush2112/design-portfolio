@@ -53,7 +53,7 @@ body{
 
 .Projects{
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(320px, 450px));
+    grid-template-columns: repeat(2, minmax(320px, 450px));
     gap: 50px;
     justify-content: center;
     margin-inline: auto;
